@@ -22,7 +22,7 @@ a:focus,
 a:active,
 a.active {
     outline: 0;
-    color: #fa5742;
+    color: #bccf03;
 }
 
 h1,
@@ -83,8 +83,7 @@ hr.star-primary:after {
 header {
     text-align: center;
     color: #fff;
-    /*background: #fa5742;*/
-    background: #232323;
+    background: #bccf03;
 }
 
 header .container {
@@ -153,7 +152,7 @@ header .intro-text .skills {
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
-    background-color: #bccf03;
+    background-color: #233140;
 }
 
 .navbar a:focus {
@@ -176,16 +175,16 @@ header .intro-text .skills {
 .navbar-default .navbar-nav > .active > a,
 .navbar-default .navbar-nav > .active > a:hover,
 .navbar-default .navbar-nav > .active > a:focus {
-  background-color: #8a9607;
+  background-color: #98a223;
 }
 
 .navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
-    color: #fa5742;
+    color: #98a223;
 }
 
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
-  color: #fa5742;
+  color: #98a223;
 }
 
 section {
@@ -199,7 +198,7 @@ section h2 {
 
 section.success {
     color: #fff;
-    background: #fa5742;
+    background: #bccf03;
 }
 
 section.success a,
@@ -241,7 +240,7 @@ section.success a.active {
 .btn-outline:active,
 .btn-outline.active {
     border: solid 2px #fff;
-    color: #fa5742;
+    color: #bccf03;
     background: #fff;
 }
 
@@ -294,7 +293,7 @@ section.success a.active {
 }
 
 .floating-label-form-group-with-focus label {
-    color: #fa5742;
+    color: #bccf03;
 }
 
 form .row:first-child .floating-label-form-group {
